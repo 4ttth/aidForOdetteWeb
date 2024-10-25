@@ -159,6 +159,13 @@ h3.footerTitles{
     .nav-link{
         color: white;
     }
+
+    .heroImage {
+      height: 130%;
+      border: 8px solid #72d1e7;
+      width: 100%;
+    }
+    
 }
 
 .collapse.show li{
